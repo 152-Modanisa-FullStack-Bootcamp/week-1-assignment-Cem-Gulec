@@ -2,7 +2,7 @@
   "name": "vanilla-js-template",
   "version": "1.0.0",
   "description": "Vanilla JS Project template for Modanisa Bootcamp",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "start": "yarn parcel src/index.html"
   },
